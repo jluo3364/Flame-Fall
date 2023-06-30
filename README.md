@@ -3,8 +3,8 @@ Bombarded by streaking flames, the user must keep the character alive by moving 
 
 Run FlameFall.java to play.
 
-<img width="700" alt="Screenshot 2023-06-30 at 2 04 59 PM" src="https://github.com/jluo3364/Flame-Fall/assets/77076660/3c99ef2e-4397-4aec-b64c-bc11b682f368">
-
 <img width="700" alt="game start page" src="src/img/start.png">
 
-<img width="700" alt="Screenshot 2023-06-30 at 2 05 36 PM" src="https://github.com/jluo3364/Flame-Fall/assets/77076660/038280d2-5521-442e-a3ff-6a06f89f475e">
+<img width="700" alt="gameplay" src="src/img/gameplay.png">
+
+<img width="700" alt="game over page" src="src/img/game over.png">
